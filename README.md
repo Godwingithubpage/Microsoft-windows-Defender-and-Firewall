@@ -4,15 +4,6 @@ Welcome to my "Microsoft Windows Defender and Firewall project" !
 
 This repository is designed to explain in simple language how to use and manage Microsoft Windows Defender Antivirus and Firewall. Whether you're new to computer security or looking to improve your skills, this project will guide you through essential security settings and tasks.
 
-**Table of Contents**
-Introduction
-Locating Virus and Threat Protection Settings
-Running Quick Scan with Windows Defender
-Configuring Windows Firewall Rules
-About Me
-Contributing
-
-
 **Introduction**
 Hi, I'm Godwin, currently pursuing a BSc Honours in Cybersecurity with The Open University, UK. This project is a part of my journey to deepen my understanding and skills in computer security. Microsoft Windows Defender is an integrated security solution that safeguards your computer against malware and other security threats. In this project, I detailed how to find Virus and Threat Protection settings, perform a quick scan using Windows Defender Antivirus, and configure Windows Firewall rules.
 
